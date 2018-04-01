@@ -1,5 +1,5 @@
 
-the steps that have been completed for the assignment getting and cleaning data are explained briefly below
+The steps that have been completed for the assignment getting and cleaning data are explained briefly below
  
  0. Download unzip dataSet to /data directory
  1. Reads in the train and test data and merges the two datasets.
